@@ -5,7 +5,7 @@ I'm a current freshman studying Computer Science at Stanford University.
 - Always looking for people to connect with; send a message!
 - Curious about artifical intelligence and machine learning.
 
-If you want to reach out, contact me at: andbui [at] stanford [dot] edu
+If you want to reach out, contact me at: `andbui [at] stanford [dot] edu`
 
 <!--
 **andrvw/andrvw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
