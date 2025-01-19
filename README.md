@@ -2,7 +2,7 @@
 I'm a freshman studying Computer Science at Stanford University.
 
 - I'm currently building in Stealth.
-- Interested in artifical intelligence and machine learning.
+- Interested in artificial intelligence and machine learning.
 - Always looking to meet new people; send a message!
 
 If you want to reach out, contact me at: `andbui [at] stanford [dot] edu`
