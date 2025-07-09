@@ -1,7 +1,7 @@
 ## Hi, I'm Andrew! 👋
-I'm a freshman studying Computer Science at Stanford University.
+I'm a sophomore studying Computer Science at Stanford University.
 
-- I'm currently building in Stealth.
+- I'm currently working on a start-up!
 - Interested in artificial intelligence and machine learning.
 - Always looking to meet new people. Send a message!
 
