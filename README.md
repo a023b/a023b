@@ -1,5 +1,5 @@
 ## Hi, I'm Andrew! 👋
-I'm a current sophomore studying Design & Computer Science at Stanford University.
+I'm a current sophomore studying Computer Science & Design at Stanford University.
 
 - I'm currently building with autonomous agents.
 - Interested in polishing designs and cooking new dishes.
