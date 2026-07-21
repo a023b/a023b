@@ -1,8 +1,8 @@
 ## Hi, I'm Andrew! 👋
 I'm a current sophomore studying Computer Science & Design at Stanford University.
 
-- I'm currently building with security and agents.
-- Interested in polishing designs and cooking new dishes.
+- I'm currently building with autonomous agenets.
+- Interested in cooking new dishes and reading manga in my free time.
 - Always looking to meet new people. Send a message!
 
 If you want to reach out, contact me at: `andbui [at] stanford [dot] edu`
