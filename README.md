@@ -1,7 +1,7 @@
 ## Hi, I'm Andrew! 👋
 I'm a junior studying Computer Science & Design at Stanford University.
 
-- I'm currently building with autonomous agenets.
+- I'm currently building with autonomous agents.
 - Interested in cooking new dishes and reading in my free time.
 - Always looking to meet new people. Send a message!
 
