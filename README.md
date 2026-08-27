@@ -2,8 +2,8 @@
 I'm a junior studying Computer Science & Design at Stanford University.
 
 - I'm currently working on a startup backed by a few angel investors.
-- Interested in cooking new dishes and reading in my free time.
-- Always looking to meet new people. Send a message!
+- I love to video edit and cook new dishes in my free time.
+- Always looking to meet new people!
 
 If you want to reach out, contact me at: `andbui [at] stanford [dot] edu`
 
