@@ -1,8 +1,8 @@
 ## Hi, I'm Andrew!
-I'm a junior studying Computer Science & Design at Stanford University.
+I'm currently a junior studying Computer Science & Design at Stanford University.
 
 - I'm currently working on a startup backed by a few small angel investors.
-- Video editing and cooking new dishes are passions of mine.
+- Video editing and cooking new dishes are hobbies of mine.
 - Always looking to meet new people!
 
 If you want to reach out, contact me at: `andbui [at] stanford [dot] edu`
