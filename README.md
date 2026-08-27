@@ -1,4 +1,4 @@
-## Hi, I'm Andrew! 👋
+## Hi, I'm Andrew!
 I'm a junior studying Computer Science & Design at Stanford University.
 
 - I'm currently building with autonomous agents.
