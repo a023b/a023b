@@ -2,7 +2,7 @@
 I'm a junior studying Computer Science & Design at Stanford University.
 
 - I'm currently working on a startup backed by a few small angel investors.
-- Video editing and cooking new dishes are some of my favorite hobbies.
+- Video editing and listening to music are some of my favorite hobbies.
 - Always looking to meet new people!
 
 If you want to reach out, contact me at: `andbui [at] stanford [dot] edu`
